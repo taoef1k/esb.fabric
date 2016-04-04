@@ -1,0 +1,10 @@
+
+.classpath
+
+.project
+
+*.prefs
+
+target/classes/log4j.properties
+
+target/classes/META-INF/MANIFEST.MF
